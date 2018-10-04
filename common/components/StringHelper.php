@@ -6,7 +6,7 @@
  * Time: 15:16
  */
 
-namespace frontend\components;
+namespace common\components;
 
 use Yii;
 class StringHelper
