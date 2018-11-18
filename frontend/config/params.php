@@ -1,6 +1,7 @@
 <?php
 return [
     'adminEmail' => 'admin@example.com',
-    'maxNewsInList' => 2,
+    'maxNewsInList' => 5,
     'shortTextLimit' => 20,
+    'showLimitMain' => 2,
 ];
